@@ -37,5 +37,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "overrides": {
+    "@testing-library/react": {
+      "react": "^19.0.0"
+    }
+  }  
 }
